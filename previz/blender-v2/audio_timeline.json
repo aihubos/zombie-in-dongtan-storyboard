@@ -1,0 +1,309 @@
+{
+  "events": [
+    {
+      "file": "lakeside.wav",
+      "start": 13,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 20,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 27,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 34,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 41,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 48,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 55,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 62,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 69,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 76,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 83,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 90,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 97,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 104,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 111,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 118,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 125,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 132,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 139,
+      "gain": 0.055,
+      "seconds": 8.0
+    },
+    {
+      "file": "lakeside.wav",
+      "start": 146,
+      "gain": 0.055,
+      "seconds": 5.0
+    },
+    {
+      "file": "cough.wav",
+      "start": 20.2,
+      "gain": 0.22,
+      "seconds": 2.9428125
+    },
+    {
+      "file": "sign-crash.wav",
+      "start": 29,
+      "gain": 0.6,
+      "seconds": 3.0
+    },
+    {
+      "file": "phone-alarm.wav",
+      "start": 54.6,
+      "gain": 0.4,
+      "seconds": 2.9754583333333335
+    },
+    {
+      "file": "phone-alarm.wav",
+      "start": 57.2,
+      "gain": 0.3,
+      "seconds": 2.9754583333333335
+    },
+    {
+      "file": "roulette.wav",
+      "start": 67.5,
+      "gain": 0.4,
+      "seconds": 3.9585625
+    },
+    {
+      "file": "roulette.wav",
+      "start": 74,
+      "gain": 0.4,
+      "seconds": 3.9585625
+    },
+    {
+      "file": "sign-crash.wav",
+      "start": 62,
+      "gain": 0.32,
+      "seconds": 3.0
+    },
+    {
+      "file": "suit-assemble.wav",
+      "start": 80.5,
+      "gain": 0.6,
+      "seconds": 2.982291666666667
+    },
+    {
+      "file": "suit-assemble.wav",
+      "start": 84,
+      "gain": 0.4,
+      "seconds": 2.982291666666667
+    },
+    {
+      "file": "sign-crash.wav",
+      "start": 89,
+      "gain": 0.35,
+      "seconds": 3.0
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 94.5,
+      "gain": 0.35,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 98,
+      "gain": 0.45,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 102,
+      "gain": 0.5,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 105,
+      "gain": 0.45,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 110,
+      "gain": 0.42,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 115,
+      "gain": 0.5,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "web-zip.wav",
+      "start": 119,
+      "gain": 0.45,
+      "seconds": 2.976354166666667
+    },
+    {
+      "file": "suit-assemble.wav",
+      "start": 125,
+      "gain": 0.35,
+      "seconds": 2.982291666666667
+    },
+    {
+      "file": "roulette.wav",
+      "start": 144.3,
+      "gain": 0.45,
+      "seconds": 3.9585625
+    },
+    {
+      "file": "running.wav",
+      "start": 6,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 34,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 37,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 40,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 43,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 47,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 50,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 58,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 65,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 90,
+      "gain": 0.26,
+      "seconds": 4.0
+    },
+    {
+      "file": "running.wav",
+      "start": 146,
+      "gain": 0.26,
+      "seconds": 4.0
+    }
+  ],
+  "peak_before_gain": 0.6027421355247498,
+  "peak_after_gain": 0.6027421355247498,
+  "bgm": false,
+  "dialogue": "Korean subtitles",
+  "listening_review": "not_performed"
+}
