@@ -3,8 +3,8 @@
   "scene_count": 22,
   "cut_count": 107,
   "duration_seconds": 151,
-  "status": "h3_2k_typography_selective_bgm_rendered",
-  "note": "현재 편집본은 약 174초: production/h3-2k-typography-v1/index.html. 원본 22장면 151초에 설명 화면 4장과 대사 사이 여유 11곳을 추가했습니다. 107컷 원본 콘티와 Blender 프리비즈: previz/blender-v2/index.html. 이전 blender 폴더와 previz/higgsfield 영상은 이전 이야기입니다.",
+  "status": "h3_2k_continuity_v2_rendered",
+  "note": "현재 편집본은 약 184초: production/h3-2k-continuity-v2/index.html. 원본 22장면 151초를 바탕으로 이동·도착·약국 탐색과 거미줄 탈출 순서를 보강했습니다. 설명 화면 6장, 대사 사이 여유 10곳입니다. 107컷 원본 콘티와 Blender 프리비즈: previz/blender-v2/index.html. 이전 blender 폴더와 previz/higgsfield 영상은 이전 이야기입니다.",
   "scenes": [
     {
       "scene": "S01",
