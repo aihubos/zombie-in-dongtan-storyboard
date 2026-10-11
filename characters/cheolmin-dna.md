@@ -1,4 +1,4 @@
-# 철민 — 캐릭터 디자인·DNA / 하정우 배역 5편 참고
+# 제레미 — 캐릭터 디자인·DNA / 하정우 배역 5편 참고
 
 수정·자료 확인: 2026-10-11. 적용: 《좀비 인 동탄》 EP.01, 22장면·107컷·151초.
 이 문서가 이전 키르아 기반 아빠 DNA를 대체한다.
@@ -19,7 +19,7 @@
 
 ## 3. 다섯 배역에서 가져올 성격
 
-| 참고작 | 남길 성질 | 철민의 화면 행동 |
+| 참고작 | 남길 성질 | 제레미의 화면 행동 |
 |---|---|---|
 | 터널 — 이정수 | 생활형 생존력 | 물·시간·길을 확인하고 작은 해결부터 실행 |
 | 하이재킹 — 태인 | 보호 책임감 | 가족이 지나갈 자리를 만들고 마지막에 이동 |
@@ -76,9 +76,9 @@
 
 ## 8. 생성 지침
 
-`Father Cheolmin closely resembles Ha Jung-woo in the approved dad-sheet-v3.png. Keep the blue shirt, grey trousers, white shoes and original body proportions. An ordinary family protector under pressure: visibly afraid yet persistent, briefly self-deprecating, initially controlling, then willing to trust his wife and son. He creates room for others to escape and follows last. Grounded movements, short practical speech, no superhuman agility.`
+`Father Jeremy closely resembles Ha Jung-woo in the approved dad-sheet-v3.png. Keep the blue shirt, grey trousers, white shoes and original body proportions. An ordinary family protector under pressure: visibly afraid yet persistent, briefly self-deprecating, initially controlling, then willing to trust his wife and son. He creates room for others to escape and follows last. Grounded movements, short practical speech, no superhuman agility.`
 
-영화 배역의 직업·군 경력·과거 사건은 철민에게 자동 추가하지 않는다. 기존 초능력 배분과 줄거리는 유지한다. 변신·장비 시트의 옛 얼굴보다 이 문서의 최신 얼굴 시트를 우선한다.
+영화 배역의 직업·군 경력·과거 사건은 제레미에게 자동 추가하지 않는다. 기존 초능력 배분과 줄거리는 유지한다. 변신·장비 시트의 옛 얼굴보다 이 문서의 최신 얼굴 시트를 우선한다.
 
 ## 출처
 
