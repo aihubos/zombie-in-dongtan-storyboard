@@ -30,7 +30,7 @@ AKC는 이탈리안 그레이하운드를 작은 체격의 우아한 반려견�
 
 진의 배려를 눈에 보이는 행동으로 바꾸는 존재다. 위험을 해결하는 만능 동물이나 억지 사고 유발 장치로 쓰지 않는다. 가족이 '셋만' 빠져나가는 것이 아니라 루나까지 함께 이동해야 한다는 조건을 만든다.
 
-제레미은 공간과 지지를 확보하고, 릴리는 품과 리드줄을 맡으며, 진은 보호를 배우는 역할을 맡는다. 개가 누구에게 있는지는 장면마다 명시한다.
+제레미는 공간과 지지를 확보하고, 릴리는 품과 리드줄을 맡으며, 진은 보호를 배우는 역할을 맡는다. 개가 누구에게 있는지는 장면마다 명시한다.
 
 ## 5. EP.01 동선
 
@@ -38,15 +38,15 @@ AKC는 이탈리안 그레이하운드를 작은 체격의 우아한 반려견�
 - S04~05: 릴리 왼쪽 곁을 걷는다. 간판 소리에 발뒤로 붙는다.
 - S06~09: 달리기 전에 릴리가 안는다. 포위 중에도 같은 품에 있다.
 - S10~15: 벽 안쪽에 앉은 진의 무릎으로 옮긴다. 이 인계로 부부가 간판과 변신 동작을 할 수 있다.
-- S16~18: 썰매 중앙, 진의 허벅지 사이에 몸을 낮춘다. 리드줄은 썰매 밖으로 끌리지 않는다. 제레미이 뒤에서 지지한다.
+- S16~18: 썰매 중앙, 진의 허벅지 사이에 몸을 낮춘다. 리드줄은 썰매 밖으로 끌리지 않는다. 제레미가 뒤에서 지지한다.
 - S19~20: 완전히 멈춘 뒤 릴리가 마른 데크에 내려놓는다. 진이 등을 쓰다듬는다.
 - S21~22: 릴리 곁의 짧은 리드줄. 멀리 무리를 보지만 초감각처럼 연출하지 않는다.
 
 ## 6. 생성과 연속성 기준
 
-작은 체격과 6뷰의 동일한 머리·귀·꼬리·하네스 색을 유지한다. 하네스 끈만 잡아 몸을 들어 올리는 구도, 얼음 위를 맨발로 질주시키는 액션, 좀비를 공격하는 장면은 사용하지 않는다. 능력은 없고 얼음은 릴리만 만든다. 새 소리 제작은 별도 편집 단계에서 처리하며 현재 문서는 효과음 파일이 생성됐음을 뜻하지 않는다.
+작은 체격과 6뷰의 동일한 머리·귀·꼬리·하네스 색을 유지한다. 하네스 끈만 잡아 몸을 들어 올리는 구도, 얼음 위를 맨발로 질주시키는 액션, 평상시 작은 루나가 좀비를 공격하는 장면은 사용하지 않는다. 10번 당첨 때만 거대 수호견으로 변신하며, 얼음은 릴리만 만든다. 새 소리 제작은 별도 편집 단계에서 처리하며 현재 문서는 효과음 파일이 생성됐음을 뜻하지 않는다.
 
-`Luna, a one-year-old female grey Italian Greyhound, slender small body, short smooth coat, folded ears, fine long tail, teal Y-shaped harness. Alert and affectionate, stays close to the family, natural canine body language. Use the approved turnaround sheet for visual consistency. No powers, no human-like gestures.`
+`Luna, a one-year-old female grey Italian Greyhound, slender small body, short smooth coat, folded ears, fine long tail, teal Y-shaped harness. Alert and affectionate, stays close to the family, natural canine body language. Use the approved turnaround sheet for visual consistency. No powers in her small everyday form. Giant guardian transformation only when slot number 10 is confirmed. No human-like gestures.`
 
 ## 7. 제작 기록
 
@@ -55,3 +55,16 @@ Aside CLI로 ChatGPT 웹 이미지 생성을 요청하고 결과를 저장했다
 ## 출처
 
 [1] [American Kennel Club — Italian Greyhound](https://www.akc.org/dog-breeds/italian-greyhound/): 품종의 기본 체형과 일반적인 기질. 동선·관계·개별 성격은 창작 설정.
+
+## 8. 10번 — 거대 수호견 루나 (2026-10-11 확정)
+
+![거대 수호견·가족 탑승](../assets/equipment-10-v5.png)
+![변신 4단계](../assets/luna-transform-v5.png)
+
+- 마지막 번호 10번을 추가하고 기존 1~9번은 유지한다. 진은 결과를 임의로 고를 수 없다.
+- 작은 동물이 압도적으로 커지는 거다이맥스식 규모감을 참고한다. 루나 고유의 회색 단모·접힌 귀·긴 다리·가는 꼬리·청록 Y하네스를 유지한다.
+- 순서: 슬롯 10 정지 → 보라 빛이 하네스로 연결 → 달빛 고리가 발에서 머리로 올라가며 어깨 높이 약 4m까지 거대화 → 몸을 낮춰 가족 탑승 → 달 모양 보호막 전개.
+- 청록 하네스가 가족 3인용 보호 안장·손잡이·벨트·탑승 발판으로 확장된다. 사람이 털이나 목줄에 매달리지 않는다.
+- 능력: 가족을 감싸는 달 모양 보호막, 길을 여는 돌진, 가족 탑승 탈출. 얼음·화염·인간 말하기 능력은 추가하지 않는다.
+- 변신 해제는 멈춘 뒤 가족이 내리고 나서 진행한다. 작아진 루나가 진에게 몸을 기대는 동작으로 마무리한다.
+- 현재 EP.01 22장면은 6번 얼음 탈출과 마지막 미공개 추첨을 유지한다. 10번은 무기 도감·변신 설계에 추가하며, 기존 장면에 거대 루나를 임의 삽입하지 않는다.

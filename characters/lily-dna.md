@@ -59,7 +59,7 @@
 
 ## 7. 고정 경계와 생성 프롬프트
 
-외형은 사용자가 승인한 부산행 정유미 스타일 시트를 따른다. 성격·선택은 부산행의 성경을 기준으로 한다. 성경의 임신 설정은 릴리에 추가하지 않는다. 원작의 잔혹한 장면을 복제하지 않는다. 회색 재킷의 평상복과 정해진 얼음 드레스를 유지한다. 초능력은 릴리만 사용하고 루나·아빠·진에게 번지지 않는다.
+외형은 사용자가 승인한 부산행 정유미 스타일 시트를 따른다. 성격·선택은 부산행의 성경을 기준으로 한다. 성경의 임신 설정은 릴리에 추가하지 않는다. 원작의 잔혹한 장면을 복제하지 않는다. 회색 재킷의 평상복과 정해진 얼음 드레스를 유지한다. 얼음 능력은 릴리만 사용한다. 루나는 10번 당첨 때만 거대 수호견으로 변신하며 평상시에는 작게 유지한다.
 
 `A compassionate but frightened mother checks her family's condition, acknowledges her son's disappointment, regains her breath after a failed attempt, and turns his practical suggestion into an escape route. Controlled urgency, quiet resilience, warm eye contact. Preserve Lily's approved face and costume. Only Lily creates ice; the family and dog remain ordinary.`
 
