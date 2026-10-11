@@ -3,21 +3,21 @@
     "number": 1,
     "name": "거대 꼬꼬맘",
     "image": "kkokkomam-sheet.png",
-    "user_sheet": "equipment-01-v5.png",
-    "ability": "진이 아끼는 꼬꼬맘 인형이 거대화해 좀비를 공격하고 밀쳐 물리친다.",
+    "user_sheet": "equipment-01-v6.png",
+    "ability": "헐크버스터 크기(3.35m)로 거대화한 꼬꼬맘. 쪼기, 날개 치기, 파이어블라스터(부리 속 노즐에서 불꽃 덩어리 3발)로 좀비를 물리친다.",
     "user": "진",
     "status": "확정",
-    "note": "실물 제품 참고 시트"
+    "note": "실물 제품 참고 시트 · 아이언맨 마크 44 헐크버스터 크기"
   },
   {
     "number": 2,
     "name": "거대 낫",
-    "image": "equipment-02-v5.png",
-    "user_sheet": "equipment-02-v5.png",
-    "ability": "한 바퀴 휘둘러 주변 공격 범위를 한꺼번에 절단한다. 화면은 실루엣과 절단선으로 표현.",
+    "image": "equipment-02-v6.png",
+    "user_sheet": "equipment-02-v6.png",
+    "ability": "자루 2.4m·날 1.6m의 원작형 거대 낫. 한 바퀴 휘둘러 반경 약 4m를 한꺼번에 벤다. 화면은 실루엣과 절단선으로 표현.",
     "user": "제레미 전용",
     "status": "확정",
-    "note": "원작 번호 2 · 이미지는 원작과 세부 차이가 있는 시안"
+    "note": "원작 카이토 2번 낫 형태 기준 · 날 각도 80도 고정"
   },
   {
     "number": 3,
@@ -43,11 +43,11 @@
     "number": 5,
     "name": "가족 우주선",
     "image": "05-ship-concept.png",
-    "user_sheet": "equipment-05-v5.png",
+    "user_sheet": "equipment-05-v6.png",
     "ability": "가족을 태우고 비행·탈출한다. 80년대 노래를 크게 틀면 소리에 반응하는 좀비들이 몰려와 유인된다.",
     "user": "가족 전용",
     "status": "확정",
-    "note": "가디언즈 오브 갤럭시풍 오리지널 우주선"
+    "note": "첫 번째 컨셉의 각진 델타익 셔틀 기준 · 길이 14m"
   },
   {
     "number": 6,
