@@ -3,8 +3,8 @@
   "scene_count": 22,
   "cut_count": 107,
   "duration_seconds": 151,
-  "status": "h3_2k_v1_rendered",
-  "note": "현재 22장면·151초 H3 2K 실제 영상: production/h3-2k-v1/index.html. 107컷 원본 콘티와 Blender 프리비즈: previz/blender-v2/index.html. 이전 blender 폴더와 previz/higgsfield 영상은 이전 이야기입니다.",
+  "status": "h3_2k_original_dialogue_rendered",
+  "note": "현재 22장면·151초 H3 2K 실제 영상: production/h3-2k-dialogue-v1/index.html. 107컷 원본 콘티와 Blender 프리비즈: previz/blender-v2/index.html. 이전 blender 폴더와 previz/higgsfield 영상은 이전 이야기입니다.",
   "scenes": [
     {
       "scene": "S01",
