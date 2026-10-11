@@ -11,8 +11,8 @@
 
 ## 2. 외형과 얼굴 디자인
 
-- 최신 기준: [아빠 전신·얼굴 시트](../assets/dad-sheet-v3.png). 이전 v2보다 하정우를 닮은 정도를 높인다.
-- 넓고 길이감 있는 얼굴 윤곽, 눈썹·눈·코·입의 상대적인 비례와 자연스러운 중년 인상을 우선한다. 눈썹만 짙게 만드는 일반적 미남화로 대체하지 않는다.
+- 최신 기준: [아빠 전신·얼굴 시트](../assets/jeremy-sheet-v4.png). 하정우를 닮은 특징을 유지하며 30대 초중반의 젊은 인상으로 다듬는다.
+- 넓고 길이감 있는 얼굴 윤곽, 눈썹·눈·코·입의 상대적인 비례와 젊고 생기 있는 성인 인상을 우선한다. 눈썹만 짙게 만드는 일반적 미남화로 대체하지 않는다.
 - 기존 파란 셔츠, 회색 바지, 흰 신발과 체형을 유지한다. 새 얼굴을 이유로 근육이나 키를 과장하지 않는다.
 - 평상시 눈과 입 주변은 편안하다. 위기에서는 눈이 먼저 움직이고 입술이 짧게 닫히며 호흡이 빨라진다. 공포가 보이는 얼굴이다.
 - 턱을 계속 치켜드는 영웅 포즈보다 몸을 낮추고 가족과 눈높이를 맞추는 동작을 쓴다.
@@ -76,10 +76,13 @@
 
 ## 8. 생성 지침
 
-`Father Jeremy closely resembles Ha Jung-woo in the approved dad-sheet-v3.png. Keep the blue shirt, grey trousers, white shoes and original body proportions. An ordinary family protector under pressure: visibly afraid yet persistent, briefly self-deprecating, initially controlling, then willing to trust his wife and son. He creates room for others to escape and follows last. Grounded movements, short practical speech, no superhuman agility.`
+`Father Jeremy resembles a younger Ha Jung-woo in his early to mid thirties in the approved jeremy-sheet-v4.png. Keep the blue shirt, grey trousers, white shoes and original body proportions. An ordinary family protector under pressure: visibly afraid yet persistent, briefly self-deprecating, initially controlling, then willing to trust his wife and son. He creates room for others to escape and follows last. Grounded movements, short practical speech, no superhuman agility.`
 
 영화 배역의 직업·군 경력·과거 사건은 제레미에게 자동 추가하지 않는다. 기존 초능력 배분과 줄거리는 유지한다. 변신·장비 시트의 옛 얼굴보다 이 문서의 최신 얼굴 시트를 우선한다.
 
 ## 출처
 
 작품별 출처·확인 범위·해석은 [하정우 영화 5편 조사](ha-jungwoo-five-films.md)에 수록했다. 모든 성격 통합과 EP.01 동작은 그 자료를 바탕으로 한 제작자의 창작 설계다.
+
+## 외형 보정 · 2026-10-11
+눈가와 팔자 주름, 피로감을 줄이고 생기 있는 눈빛과 깔끔한 짧은 머리를 적용한다. 하정우의 얼굴 비례를 유지하며 피부 질감은 자연스럽게 남긴다. 파란 셔츠·체형과 기존 배역 기반 성격 DNA는 유지한다.
