@@ -1,10 +1,10 @@
 # 릴리 — 캐릭터 DNA / 부산행 성경 참고
 
-작성·웹 자료 확인: 2026-10-10. 적용: 좀비 인 동탄 EP.01.
+수정·웹 자료 확인: 2026-10-11. 적용: 좀비 인 동탄 EP.01.
 
 ## 1. 핵심 정의
 
-**공포를 느끼면서도 사람의 상태를 먼저 보고, 모두가 움직일 수 있게 만드는 엄마.** 참고 대상은 배우 정유미의 사생활이나 다른 배역이 아니라 《부산행》(2016)의 성경이다. 얼굴은 2026-10-11 부산행·윤식당 정유미 스타일 시트(assets/mom-sheet-v2.png)를 따른다. 기존 회색 재킷·체형·헤어와 6번 얼음 드레스 설정을 유지한다.
+**공포를 느끼면서도 사람의 상태를 먼저 보고, 모두가 움직일 수 있게 만드는 엄마.** 참고 대상은 배우 정유미의 사생활이나 다른 배역이 아니라 《부산행》(2016)의 성경이다. 얼굴은 2026-10-11 부산행·윤식당 정유미 스타일 시트(../assets/mom-sheet-v2.png)를 따른다. 기존 회색 재킷·체형·헤어와 6번 얼음 드레스 설정을 유지한다.
 
 ## 2. 인터넷 조사에서 확인한 작품 정보
 
@@ -59,7 +59,7 @@
 
 ## 7. 고정 경계와 생성 프롬프트
 
-성경의 임신 설정이나 배우 얼굴을 릴리에 새로 적용하지 않는다. 원작의 잔혹한 장면을 복제하지 않는다. 회색 재킷의 평상복과 정해진 얼음 드레스를 유지한다. 초능력은 릴리만 사용하고 루나·아빠·진에게 번지지 않는다.
+외형은 사용자가 승인한 부산행 정유미 스타일 시트를 따른다. 성격·선택은 부산행의 성경을 기준으로 한다. 성경의 임신 설정은 릴리에 추가하지 않는다. 원작의 잔혹한 장면을 복제하지 않는다. 회색 재킷의 평상복과 정해진 얼음 드레스를 유지한다. 초능력은 릴리만 사용하고 루나·아빠·진에게 번지지 않는다.
 
 `A compassionate but frightened mother checks her family's condition, acknowledges her son's disappointment, regains her breath after a failed attempt, and turns his practical suggestion into an escape route. Controlled urgency, quiet resilience, warm eye contact. Preserve Lily's approved face and costume. Only Lily creates ice; the family and dog remain ordinary.`
 
@@ -72,3 +72,6 @@
 [1] [Common Sense Media — Train to Busan](https://www.commonsensemedia.org/movie-reviews/train-to-busan): 성경의 인물 정보, 위기 대응 평가, 작품의 협동·연민 주제. 비평적 평가이며 공식 설정집은 아니다.
 
 [2] [Slant Magazine — Train to Busan](https://www.slantmagazine.com/film/train-to-busan/): 부부 관계와 생존 윤리의 대비. 비평적 해석과 작품 사실을 구분해 참고했다.
+
+## 이번 확정 사항
+엄마 DNA는 《부산행》 성경(정유미)이다. 윤식당의 예능 속 성격을 혼합하지 않는다. 공포 속에서도 타인의 상태를 살피고 실제로 돕는 행동을 중심으로 삼는다. 2026-10-11 Common Sense Media의 성경 설명을 재확인했다.
